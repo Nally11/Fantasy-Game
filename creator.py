@@ -1,7 +1,7 @@
 '''- its a little bit messy 
 but it works :) and i did it alone just 
 playing around so hope you are kind'''
-
+#gogo
 
 import random
 lucky = random.randint(1,3)
